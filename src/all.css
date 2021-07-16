@@ -1,0 +1,61 @@
+/* .link{
+   
+    cursor: pointer;
+    background-color:rgba(245, 235, 235, 0.884) ;
+    color: rgb(233, 233, 233);
+    margin: 16px 4.8px;
+    padding: 0.6rem ;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 1rem;
+} */
+#btn{
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 1rem 1rem;
+  padding: 0.8rem;
+  border: 1px solid black;
+  border-radius: 1rem;
+  background-color: rgb(0, 0, 0);
+ 
+}
+#btn1{
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+  padding: 0.8rem;
+  border: 1px solid black;
+  border-radius: 1rem;
+  background-color: rgb(0, 0, 0);
+ 
+}
+#btn2{
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 1rem 0.5rem;
+  padding: 0.8rem;
+  border: 1px solid black;
+  border-radius: 1rem;
+  background-color: rgb(0, 0, 0);
+ 
+}
+.link{
+  text-decoration:none;
+  color: white;
+}
+
+
+hr{
+  margin: 2rem;
+}
+.box{
+  height: 10vh;
+  width: 80%;
+  margin: 1rem;
+  padding: 1rem;
+  border: 0.1rem solid black;
+  border-radius: 0.5rem;
+}
+h1{
+   display: inline;
+}
