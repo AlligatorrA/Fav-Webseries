@@ -1,4 +1,5 @@
 import "./styles.css";
+
 import "./all.css";
 import { Route, Switch } from "react-router-dom";
 import Nav from "./Nav";
@@ -11,7 +12,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="head">
-          <h1>Fav- Webseries</h1>
+          <h1> Fav- Webseries</h1>
         </div>
 
         <p>Checkout my favorite books. select a genre to get started.</p>

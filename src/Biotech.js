@@ -8,7 +8,7 @@ function Business() {
         4.5/5
       </div>
       <div className="box">
-        Cell Cloning <br />
+        Splice <br />
         5/5
       </div>
       <div className="box">
